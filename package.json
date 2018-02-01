@@ -1,7 +1,7 @@
 {
   "name": "vue-inline-date-changer",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "dolare <dolarebrave@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -18,6 +18,14 @@
     "last 2 versions",
     "not ie <= 8"
   ],
+  "keywords": [
+    "vue",
+    "date",
+    "inline",
+    "change",
+    "day
+  ],
+  "homepage": "https://github.com/dolare/vue-inline-date-changer#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
