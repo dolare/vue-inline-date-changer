@@ -114,7 +114,10 @@ if (process.env.NODE_ENV === 'production') {
     }),
     new webpack.LoaderOptionsPlugin({
       minimize: true
-    })
+    }),
+    new ExtractTextPlugin({
+      filename: 'vue-inline-date-changer.min.css'
+    }),
   ])
 }
 
