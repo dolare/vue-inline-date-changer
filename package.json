@@ -1,7 +1,7 @@
 {
   "name": "vue-inline-date-changer",
   "description": "A Vue.js project",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "dolare <dolarebrave@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -33,6 +33,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.4",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
