@@ -23,7 +23,7 @@
     "date",
     "inline",
     "change",
-    "day
+    "day"
   ],
   "homepage": "https://github.com/dolare/vue-inline-date-changer#readme",
   "devDependencies": {
