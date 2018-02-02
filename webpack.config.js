@@ -8,7 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'vue-inline-date-changer.js',
-    library: 'VueInlineDateChanger',
+    library: 'vue-inline-date-changer',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
