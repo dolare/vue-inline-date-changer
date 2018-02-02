@@ -93,7 +93,8 @@ module.exports = {
       commonjs: 'vue',
       commonjs2: 'vue',
       amd: 'vue'
-    }
+    },
+    moment: 'moment'
   },
   devtool: '#eval-source-map'
 }
