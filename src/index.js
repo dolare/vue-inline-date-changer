@@ -5,7 +5,7 @@ const VueInlineDateChanger  = {
 			Vue = window.Vue
       Vue.use(vueInlineDateChanger)
 		}
-		Vue.component('VueInlineDateChanger', vueInlineDateChanger)
+		Vue.component('vue-inline-date-changer', vueInlineDateChanger)
 	}
 }
 export default VueInlineDateChanger
